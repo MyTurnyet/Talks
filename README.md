@@ -3,5 +3,5 @@ This repository holds notes information and reference material for talks given b
 
 ### Talks
 
-- Deliberate Practice
-  *The science and practices that lead us to get better*
+- [Deliberate Practice](https://github.com/MyTurnyet/Talks/tree/main/deliberate-practice) - *The science and practices that lead us to get better*
+
