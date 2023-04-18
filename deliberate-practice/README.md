@@ -10,4 +10,4 @@
 ### Resources
 
 - Slide deck - updated 2023-04-18
-- Articles
+- [Links](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/resources.md)
