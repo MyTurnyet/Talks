@@ -1,6 +1,8 @@
 ## Resources for Deliberate Practice
 
+### Links
 
+Llewellyn Falco's [Sparrow Decks](http://llewellynfalco.blogspot.com/p/sparrow-decks.html)
 
 ### Books
 
