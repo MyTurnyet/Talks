@@ -1,13 +1,14 @@
 
+
 ## Deliberate Practice
 
 ### Presentation Dates
-|Date|Location|
-|--|--|
-|2023-04-20|[Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)  |
+|Date|Location|Recording Link|
+|--|--|--|
+|2023-04-20|[Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)  | |
 
 
 ### Resources
 
-- Slide deck - updated 2023-04-18
+- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf) - updated 2023-04-19
 - [Links](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/resources.md)
