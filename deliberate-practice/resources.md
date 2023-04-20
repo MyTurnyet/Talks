@@ -15,6 +15,7 @@ LinkedIn:  https://www.linkedin.com/in/paige-watson-b817564/
 
 ### Links
 Llewellyn Falco's [Sparrow Decks](http://llewellynfalco.blogspot.com/p/sparrow-decks.html)
+[Youtube talk](https://www.youtube.com/watch?v=H3L0aN9KItA) on Sparrow Decks 
 
 [FizzBuzz](https://github.com/ardalis/kata-catalog/blob/main/katas/FizzBuzz.md) Kata
 
