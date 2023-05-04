@@ -1,0 +1,24 @@
+
+
+## Resources for Whole Team Programming workshop
+
+
+**Paige Watson**
+
+email: [paige@industriallogic.com](mailto:paige@industriallogic.com)
+
+Twitter: [@PaigeIsXP](https://twitter.com/paigeisxp)
+
+Mastodon: [https://techhub.social/@paigewatson](https://techhub.social/@paigewatson)
+
+LinkedIn: https://www.linkedin.com/in/paige-watson-b817564/
+
+
+### Links
+
+Github repository:
+
+
+### Books
+
+[Software Teaming: A Mob Programming, Whole-Team Approach](https://www.amazon.com/Software-Teaming-Programming-Whole-Team-Approach/dp/B0BLG1QTYK) - Woody Zuill and Kevin Meadows
