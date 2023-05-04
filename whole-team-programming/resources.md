@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/paige-watson-b817564/
 
 ### Links
 
-Github repository:
+Github repository: https://github.com/MyTurnyet/wholeteam_js
 
 
 ### Books
