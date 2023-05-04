@@ -1,10 +1,11 @@
 
-## Deliberate Practice
 
-### Presentation Dates
-|Date|Location|
-|--|--|
-|2023-04-20|[Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)  |
+## Whole Team Programming
+
+### Workshop Dates
+| Date       | Location                                              |  
+|------------|-------------------------------------------------------|  
+| 2023-05-10 | [Agile Manchester 2023](https://agilemanchester.net/) |  
 
 
 ### Resources
