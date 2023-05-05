@@ -1,5 +1,6 @@
 
 
+
 ## Resources for Whole Team Programming workshop
 
 
@@ -16,8 +17,10 @@ LinkedIn: https://www.linkedin.com/in/paige-watson-b817564/
 
 ### Links
 
-Github repository: https://github.com/MyTurnyet/wholeteam_js
+Workshop Github repository: https://github.com/MyTurnyet/wholeteam_js  
+Numbers To Words kata: https://www.tddbuddy.com/katas/numbers-to-words.html
 
+[Jay Bazuzi's Mobbing Pattern Language]( https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 
 ### Books
 
