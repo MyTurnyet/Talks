@@ -25,4 +25,5 @@ Numbers To Words kata: https://www.tddbuddy.com/katas/numbers-to-words.html
 ### Books
 
 [Software Teaming: A Mob Programming, Whole-Team Approach](https://www.amazon.com/Software-Teaming-Programming-Whole-Team-Approach/dp/B0BLG1QTYK) - Woody Zuill and Kevin Meadows
+
 [Code with the Wisdom of the Crowd: Get Better Together with Mob Programming](https://www.amazon.com/Code-Wisdom-Crowd-Together-Programming/dp/1680506153) - Mark Pearl
