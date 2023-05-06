@@ -22,6 +22,9 @@ Numbers To Words kata: https://www.tddbuddy.com/katas/numbers-to-words.html
 
 [Jay Bazuzi's Mobbing Pattern Language]( https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 
+[Scatter-Gather blog post](https://www.industriallogic.com/blog/scatter-gather/) - Tim Ottinger
+[Feels like Faster vs. Is Actually Faster](https://medium.com/hackernoon/feels-like-faster-vs-makes-us-faster-828686facc7e) - John Cutler
+
 ### Books
 
 [Software Teaming: A Mob Programming, Whole-Team Approach](https://www.amazon.com/Software-Teaming-Programming-Whole-Team-Approach/dp/B0BLG1QTYK) - Woody Zuill and Kevin Meadows
