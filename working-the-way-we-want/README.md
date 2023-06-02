@@ -12,7 +12,7 @@
 
 ### Resources
 
-- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) - updated
+- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20%20the%20way%20we%20want%20-%202023.pdf) - updated
   2023-02-02
 - [Lightning Talk Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) - updated
     2023-05-10
