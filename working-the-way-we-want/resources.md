@@ -1,5 +1,5 @@
 
-## Resources for Deliberate Practice
+## Resources for Working The Way We Want
 
 
 **Paige Watson**
@@ -14,21 +14,18 @@ LinkedIn:  https://www.linkedin.com/in/paige-watson-b817564/
 
 
 ### Links
-Llewellyn Falco's [Sparrow Decks](http://llewellynfalco.blogspot.com/p/sparrow-decks.html)
-- [Youtube talk](https://www.youtube.com/watch?v=H3L0aN9KItA) on Sparrow Decks 
+[FaST-Agile](https://www.fastagile.io/home)
 
-[FizzBuzz](https://github.com/ardalis/kata-catalog/blob/main/katas/FizzBuzz.md) Kata
+[Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/)
 
-[Gilded Rose](https://github.com/ardalis/kata-catalog/blob/main/katas/Gilded%20Rose.md) Kata
+[Open Space World](https://openspaceworld.org/wp2/)
 
-[Kata Rules](https://www.katanation.com/kata-culture) from Katanation.com
-
-Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) rules
+[Dynamic ReTeaming](https://www.heidihelfand.com/dynamic-reteaming/)
 
 ### Books
+[FaST Guide](https://www.fastagile.io/fast-guide) - Ron Quartel
 
-[Peak: Secrets from the New Science of Expertise](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise) - K. Anders Ericsson
+[Open Space Technology: A Users Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766) - Harrison Owen
 
-[Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daneil Kahneman
+[Drive](https://www.danpink.com/books/drive) - Daniel Pink
 
-[Drive: The surprising truth about what motivates us](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)  - Daniel Pink
