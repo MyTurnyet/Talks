@@ -12,8 +12,8 @@
 
 ### Resources
 
-- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf) - updated
+- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) - updated
   2023-02-02
-- [Lightning Talk Slide deck](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf) - updated
+- [Lightning Talk Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) - updated
     2023-05-10
 - [Links](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/resources.md)
