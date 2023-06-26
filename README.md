@@ -5,6 +5,7 @@ This repository holds notes information and reference material for talks given b
 ### Talks
 
 - [Deliberate Practice](https://github.com/MyTurnyet/Talks/tree/main/deliberate-practice) - *The science and practices that lead us to get better*
+- [Working the way we want!](https://github.com/MyTurnyet/Talks/tree/main/working-the-way-we-want) - *The evolution of FaST-Agile*
 
 ### Workshops
 
