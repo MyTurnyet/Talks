@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/paige-watson-b817564/
 
 ### Training
 
-[<img style="max-width:320px;" src="https://www.industriallogic.com/img/workshops/MPW.jpg"/>
+[<img style="max-width:320px; width:320px;" src="https://www.industriallogic.com/img/workshops/MPW.jpg"/>
 ](https://www.industriallogic.com/mob-programming-workshop/)
 
 ### Links
