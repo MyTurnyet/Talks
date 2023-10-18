@@ -3,23 +3,23 @@
 Starting in 2016, I was part of an amazing experiment of 40+ people who self-organized and dynamically re-teamed around
 our work, using two-day iterations to produce amazing high-quality applications for a large healthcare insurance
 company.
-Our process became what is now called Fluid Scaling Technology ([FaST-Agile](https://fast-agile.io)).
+Our process became what is now called Fluid Scaling Technology ([FaST](https://fast-agile.io)).
 
-In his book, The Art of Agile Development (2nd Ed.), James Shore called FaSt-Agile:
+In his book, The Art of Agile Development (2nd Ed.), James Shore called FaST:
 > "One of the most promising
 > approaches to scaling I've seen."
 
-Attendees will learn about the processes and practices of FaST-Agile, but even more, they will understand how we created
+Attendees will learn about the processes and practices of FaST, but even more, they will understand how we created
 an environment of learning, growth, and team responsibility that allowed us to achieve high-quality, amazing outcomes at
 a more rapid pace.
 
 We'll discuss how dynamic re-teaming created stronger more knowledgeable teams, and how team self-selection of work
-improved team ownership and team responsibility to our products and customers.
+improved team ownership and team responsibility for our products and customers.
 Along with this, I'll talk about how other roles, like scrum masters and managers, became an integral part of making
 this work, along with how you can implement some or all of these ideas at your company.
 
 ### Learning Outcomes
-- Explain the Practices and Processes of FAST-Agile.
+- Explain the Practices and Processes of FaST.
 - Explain Dynamic Re-Teaming, and why it's so effective for teams.
 - Understand why Self-Selection of work increases Team Responsibility and Team Ownership of work.
 - Recognize the influence that learning as a team has on product quality and the speed of release.
