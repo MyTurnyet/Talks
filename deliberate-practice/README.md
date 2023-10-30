@@ -8,9 +8,9 @@ effortless. Why aren't you and your team practicing to get better?
 Applying the concepts of Learned Behaviorism, using the techniques of Deliberate Practice, and simple "tools" like Code
 Katas can result in a more knowledgeable team that produces higher-quality code at a more rapid pace.
 
-In this talk, I layout out the concepts of Deliberate Practice and Learning-Performance Distinction. You'll learn how to
+In this talk, I lay out the concepts of Deliberate Practice and Learning-Performance Distinction. You'll learn how to
 facilitate learning opportunities to ensure the best outcomes, and I'll give you examples of practices that I have
-done (and continue to do) at companies teach Deliberate Practice, and the positive outcomes that we achieved. Attendees
+done (and continue to do) at companies that teach Deliberate Practice, and the positive outcomes that we achieved. Attendees
 will get to participate in a simple, but effective example of practices they can start with their teams immediately.
 
 ### Learning Outcomes
