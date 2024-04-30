@@ -2,7 +2,7 @@
 
 **Paige Watson**
 
-email: [paige@industriallogic.com](mailto:paige@industriallogic.com)
+email: [paige.watson@outlook.com](mailto:paige.watson@outlook.com)
 
 Twitter: [@PaigeIsXP](https://twitter.com/paigeisxp)
 
