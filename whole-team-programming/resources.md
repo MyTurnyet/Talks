@@ -8,7 +8,7 @@ Twitter: [@PaigeIsXP](https://twitter.com/paigeisxp)
 
 Mastodon: [https://techhub.social/@paigewatson](https://techhub.social/@paigewatson)
 
-LinkedIn: https://www.linkedin.com/in/paige-watson-b817564/
+LinkedIn: https://www.linkedin.com/in/paige-is-xp/
 
 ### Training
 
