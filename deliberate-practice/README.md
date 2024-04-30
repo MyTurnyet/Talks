@@ -21,11 +21,12 @@ will get to participate in a simple, but effective example of practices they can
 
 ### Presentation Dates
 
-| Date       | Location                                                                        | Recording Link                          |
-|------------|---------------------------------------------------------------------------------|-----------------------------------------|
-| 2023-04-06 | [Industrial Logic Twitter Space](https://twitter.com/IndustrialLogic)           | [YouTube - Audio Only](https://youtu.be/4htssaCZgq8) |
-| 2023-04-20 | [Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice) | [YouTube](https://youtu.be/-IZ2cu191dA) |
-| 2023-08-14 | [Managing Software Teams in Seattle Meetup](https://www.meetup.com/managing-software-teams-in-seattle/events/294060653/) | [YouTube](https://youtu.be/YEZSK9JqYT4) |
+| Date       | Location                                                                                                                 | Recording Link                                       |
+|------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 2023-04-06 | [Industrial Logic Twitter Space](https://twitter.com/IndustrialLogic)                                                    | [YouTube - Audio Only](https://youtu.be/4htssaCZgq8) |
+| 2023-04-20 | [Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)                                          | [YouTube](https://youtu.be/-IZ2cu191dA)              |
+| 2023-08-14 | [Managing Software Teams in Seattle Meetup](https://www.meetup.com/managing-software-teams-in-seattle/events/294060653/) | [YouTube](https://youtu.be/YEZSK9JqYT4)              |
+| 2024-05-16 | [Agile Manchester](https://agilemanchester.net/)                          |                                         |
 
 ### Resources
 
