@@ -10,10 +10,12 @@ Katas can result in a more knowledgeable team that produces higher-quality code 
 
 In this talk, I lay out the concepts of Deliberate Practice and Learning-Performance Distinction. You'll learn how to
 facilitate learning opportunities to ensure the best outcomes, and I'll give you examples of practices that I have
-done (and continue to do) at companies that teach Deliberate Practice, and the positive outcomes that we achieved. Attendees
+done (and continue to do) at companies that teach Deliberate Practice, and the positive outcomes that we achieved.
+Attendees
 will get to participate in a simple, but effective example of practices they can start with their teams immediately.
 
 ### Learning Outcomes
+
 - Understand the concepts of Deliberate Practice and Learning-Performance Distinction.
 - Learn how to effectively practice with tools like Code Katas and Sparrow Decks
 - Understand the outcomes that learning as a group will bring to the team, and how to expand those outcomes to more than
@@ -26,7 +28,8 @@ will get to participate in a simple, but effective example of practices they can
 | 2023-04-06 | [Industrial Logic Twitter Space](https://twitter.com/IndustrialLogic)                                                    | [YouTube - Audio Only](https://youtu.be/4htssaCZgq8) |
 | 2023-04-20 | [Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)                                          | [YouTube](https://youtu.be/-IZ2cu191dA)              |
 | 2023-08-14 | [Managing Software Teams in Seattle Meetup](https://www.meetup.com/managing-software-teams-in-seattle/events/294060653/) | [YouTube](https://youtu.be/YEZSK9JqYT4)              |
-| 2024-05-16 | [Agile Manchester](https://agilemanchester.net/)                          |                                         |
+| 2024-05-09 | [Philly XP](https://www.meetup.com/PhillyXP/events/300473620)                                                            |                                                      |
+| 2024-05-16 | [Agile Manchester](https://agilemanchester.net/)                                                                         |                                                      |
 
 ### Resources
 
