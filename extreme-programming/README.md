@@ -23,5 +23,5 @@ been pivotal in accelerating team productivity and delivering high-quality softw
 
 ### Resources
 
-- [Slide deck]() - updated 2024-04-30
+- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/extreme-programming/Extreme%20Programming_%20The%20Secret%20Sauce%20for%20High-speed%2C%20Quality%20Software.pdf) - updated 2024-04-30
 - [Links](https://github.com/MyTurnyet/Talks/blob/main/extreme-programming/resources.md)
