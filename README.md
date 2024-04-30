@@ -14,8 +14,9 @@ I am also an active speaker and educator, conducting workshops at various global
 ### Talks
 
 - [Deliberate Practice](https://github.com/MyTurnyet/Talks/tree/main/deliberate-practice) - *The science and practices that lead us to get better*
-- [Working the way we want!](https://github.com/MyTurnyet/Talks/tree/main/working-the-way-we-want) - *The evolution of FaST-Agile*
-
+- [Working the way we want!](https://github.com/MyTurnyet/Talks/tree/main/working-the-way-we-want) - *The evolution of Fluid Scaling Adaptive Technology (FAST)*
+- [Extreme Programming](https://github.com/MyTurnyet/Talks/tree/main/extremem-programming) - *The Secret Sauce for High-Speed, Quality Software*
+- 
 ### Workshops
 
 - [Whole Team Programming](https://github.com/MyTurnyet/Talks/tree/main/whole-team-programming)
