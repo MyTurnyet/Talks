@@ -11,6 +11,16 @@ I am dedicated to elevating developers into cohesive, high-performing teams capa
 
 I am also an active speaker and educator, conducting workshops at various global corporations to share insights and strategies for excellence in software development.
 
+###Connect with me
+
+email: [paige.watson@outlook.com](mailto:paige.watson@outlook.com)
+
+LinkedIn:  [https://www.linkedin.com/in/paige-is-xp/](https://www.linkedin.com/in/paige-is-xp/)
+
+Twitter: [@PaigeIsXP](https://twitter.com/paigeisxp)
+
+Mastodon:  [https://techhub.social/@paigewatson](https://techhub.social/@paigewatson)
+
 ### Talks
 
 - [Deliberate Practice](https://github.com/MyTurnyet/Talks/tree/main/deliberate-practice) - *The science and practices that lead us to get better*
