@@ -3,7 +3,7 @@
 Starting in 2016, I was part of an amazing experiment of 40+ people who self-organized and dynamically re-teamed around
 our work, using two-day iterations to produce amazing high-quality applications for a large healthcare insurance
 company.
-Our process became what is now called Fluid Scaling Technology ([FaST](https://fast-agile.io)).
+Our process became what is now called Fluid Scaling Technology ([FaST](https://fastagile.io)).
 
 In his book, The Art of Agile Development (2nd Ed.), James Shore called FaST:
 > "One of the most promising
