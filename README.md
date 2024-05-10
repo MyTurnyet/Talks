@@ -11,7 +11,7 @@ I am dedicated to elevating developers into cohesive, high-performing teams capa
 
 I am also an active speaker and educator, conducting workshops at various global corporations to share insights and strategies for excellence in software development.
 
-###Connect with me
+### Connect with me
 
 email: [paige.watson@outlook.com](mailto:paige.watson@outlook.com)
 
