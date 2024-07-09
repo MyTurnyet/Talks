@@ -26,7 +26,7 @@ Mastodon:  [https://techhub.social/@paigewatson](https://techhub.social/@paigewa
 - [Deliberate Practice](https://github.com/MyTurnyet/Talks/tree/main/deliberate-practice) - *The science and practices that lead us to get better*
 - [Working the way we want!](https://github.com/MyTurnyet/Talks/tree/main/working-the-way-we-want) - *The evolution of Fluid Scaling Adaptive Technology (FAST)*
 - [Extreme Programming](https://github.com/MyTurnyet/Talks/tree/main/extremem-programming) - *The Secret Sauce for High-Speed, Quality Software*
-- 
+- [Refactoring Legacy Code](https://github.com/MyTurnyet/Talks/tree/main/refactoring-legacy-code) - *Safely Evolving with TDD and the Strangler Pattern* 
 ### Workshops
 
 - [Whole Team Programming](https://github.com/MyTurnyet/Talks/tree/main/whole-team-programming)
