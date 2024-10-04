@@ -1,5 +1,5 @@
 
-## Resources for Deliberate Practice
+## Resources for Refactoring Legacy Code
 
 
 **Paige Watson**
