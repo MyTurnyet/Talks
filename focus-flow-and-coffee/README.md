@@ -1,6 +1,6 @@
 ## Focus, Flow, and Cold Coffee: ADHD-Driven Development Practices
 
-ADHD can feel like chaos — a mind racing with ideas, a desk full of half-drunk cold coffees, and a to-do list that’s
+ADHD can feel like chaos — a mind racing with ideas, a desk full of cold, half-drunk coffee cups, and a to-do list that’s
 both overwhelming and strangely invisible. For years, I struggled to stay afloat as a developer, battling hyper-focus,
 memory issues, and constant distraction. Then I discovered something surprising: the practices that help teams write
 better code — like **Test-Driven Development (TDD)**, **Collaborative Programming**, and **Discovery Trees** — also helped me work with my
