@@ -29,5 +29,5 @@ structure, collaboration, and sustainable work habits.
 
 ### Resources
 
-- [Slide deck]() - none yet
+- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/focus-flow-and-coffee/Focus%2C%20Flow%2C%20and%20Cold%20Coffee.pdf) - last updated 2025-03-27
 - [Links](https://github.com/MyTurnyet/Talks/blob/main/focus-flow-and-coffee/resources.md)
