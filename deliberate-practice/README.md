@@ -22,14 +22,15 @@ Attendees will participate in a simple, effective example of practices they can 
 
 ### Presentation Dates
 
-| Date       | Location                                                                                                                 | Recording Link                                       |
-|------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| 2023-04-06 | [Industrial Logic Twitter Space](https://twitter.com/IndustrialLogic)                                                    | [YouTube - Audio Only](https://youtu.be/4htssaCZgq8) |
-| 2023-04-20 | [Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)                                          | [YouTube](https://youtu.be/-IZ2cu191dA)              |
-| 2023-08-14 | [Managing Software Teams in Seattle Meetup](https://www.meetup.com/managing-software-teams-in-seattle/events/294060653/) | [YouTube](https://youtu.be/YEZSK9JqYT4)              |
-| 2024-05-09 | [Philly XP](https://www.meetup.com/PhillyXP/events/300473620)                                                            | [YouTube](https://youtu.be/L0Jmdo6m8_0)                                                     |
-| 2024-05-16 | [Agile Manchester 2024](https://agilemanchester.net/)                                                                         |                                                      |
-| 2024-05-16 | [Software Crafters Manchester](https://www.meetup.com/software-crafters-manchester/events/300520387/?notificationId=1370299017445380096)    |   |
+| Date       | Location                                                                                                                                 | Recording Link                                       |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 2023-04-06 | [Industrial Logic Twitter Space](https://twitter.com/IndustrialLogic)                                                                    | [YouTube - Audio Only](https://youtu.be/4htssaCZgq8) |
+| 2023-04-20 | [Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice)                                                          | [YouTube](https://youtu.be/-IZ2cu191dA)              |
+| 2023-08-14 | [Managing Software Teams in Seattle Meetup](https://www.meetup.com/managing-software-teams-in-seattle/events/294060653/)                 | [YouTube](https://youtu.be/YEZSK9JqYT4)              |
+| 2024-05-09 | [Philly XP](https://www.meetup.com/PhillyXP/events/300473620)                                                                            | [YouTube](https://youtu.be/L0Jmdo6m8_0)                                                     |
+| 2024-05-16 | [Agile Manchester 2024](https://agilemanchester.net/)                                                                                    |                                                      |
+| 2024-05-16 | [Software Crafters Manchester](https://www.meetup.com/software-crafters-manchester/events/300520387/?notificationId=1370299017445380096) |   |
+| 2025-04-09 | [SeattleJS](https://seattlejs.com/)                    |   |
 
 ### Resources
 
