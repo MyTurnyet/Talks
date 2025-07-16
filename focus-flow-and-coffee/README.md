@@ -26,6 +26,10 @@ structure, collaboration, and sustainable work habits.
 | Date       | Location                                                 | Recording Link                                      |
 |------------|----------------------------------------------------------|-----------------------------------------------------|
 | 2025-04-03 | [Iowa .Net Users Group](https://www.meetup.com/iadnug) | [YouTube](https://www.youtube.com/watch?v=q2CNYyEETwg)        |
+| 2025-05-05 | [PhillyXP](https://www.meetup.com/phillyxp/events/307822780/)| [YouTube](https://youtu.be/5sEXqSEswtw?si=dS2xbQadHQkSYbP8&t=16) |
+| 2025-06-27 | [Seattle Code Crafters](https://www.meetup.com/seattle-software-craftsmanship/events/305869154/?eventOrigin=group_events_list) | No recording |
+| 2025-07-16 | [Tek Caffe](https://www.linkedin.com/company/tek-caffe/posts/?feedView=all) | [YouTube](https://www.youtube.com/live/H536Vh0Qku4) |
+
 
 
 ### Resources
