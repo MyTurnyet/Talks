@@ -35,5 +35,5 @@ Attendees will participate in a simple, effective example of practices they can 
 ### Resources
 
 - [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf) - updated
-  2026-07015
+  2026-07-15
 - [Links](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/resources.md)
